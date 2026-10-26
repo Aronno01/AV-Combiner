@@ -198,7 +198,8 @@ Gyan's FFmpeg builds — the full Windows FFmpeg build used during development.
 GitHub: @Aronno01
 Repository: github.com/Aronno01/AV-Combiner
 Issues: Report a bug or request a feature
-<p align="center">
-Made with ❤️ by <a href="https://github.com/Aronno01">Aronno01</a>
-</p>
+
+Made with ❤️ by https://github.com/Aronno01 .
+
+PEACE OUT ! 
 
