@@ -187,13 +187,16 @@ Commit your changes (git commit -m 'Add amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 Please keep the logic/UI separation intact and add tests for new core functionality.
+
 📝 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it, even commercially, as long as you include the original license notice.
+
 🙏 Acknowledgments
 FFmpeg — the backbone of this app. Without FFmpeg, none of this would be possible.
 PySide6 — for the premium Qt6 Python bindings.
 PyInstaller — for turning Python into a portable Windows executable.
 Gyan's FFmpeg builds — the full Windows FFmpeg build used during development.
+
 📬 Contact
 GitHub: @Aronno01
 Repository: github.com/Aronno01/AV-Combiner
